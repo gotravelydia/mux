@@ -3,7 +3,7 @@
 package mux
 
 import (
-	"context"
+	"github.com/gorilla/context"
 	"net/http"
 )
 
